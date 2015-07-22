@@ -1,0 +1,32 @@
+#container {
+	background-color: grey;
+	border-radius: 5px;
+}
+
+#header {
+	background-color: red;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+}
+
+.prob {
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 10px;
+	padding-left: 15px;
+}
+
+.prob input {
+	margin-left: 2px;
+}
+
+
+.svar {
+	border: 2px solid black;
+	width: 5%;
+	height: 20px;
+	padding: 3px;
+
+}
